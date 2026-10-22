@@ -1,0 +1,22 @@
+GAME CHAN/LE CO NHAC NEN
+
+1. Giai nen file ZIP.
+2. Tai len GitHub tat ca cac file nam cung thu muc:
+   - index.html
+   - 1000032727.mp4
+   - 1000032731.mp4
+   - 1000032899.mp4
+   - 1000032900.mp4
+3. Am thanh trong 4 video se lan luot phat khi mo game va tu quay lai video dau sau video thu tu. Chrome co the chan tu phat co tieng; neu vay, hay bam/cham vao trang mot lan hoac vao Cai dat > Bat nhac.
+4. Vao nut ⚙ tren trang chu de bat/tat nhac hoac chuyen video.
+5. Neu game da co tren GitHub Pages, sau khi thay cac file va bam Commit changes, doi mot luc roi tai lai trang.
+
+
+CẬP NHẬT MỞ RƯƠNG HUY HIỆU
+- Mục Mở Rương: tốn 100 xu ảo mỗi lần.
+- Có hoạt ảnh rương và dải huy hiệu chạy ngang như video tham khảo.
+- Huy hiệu nhận được tự lưu vào Túi; có thể bán lấy xu theo giá hiển thị.
+- 8 hình huy hiệu do người dùng cung cấp nằm trong thư mục badges.
+- Các tệp nhạc nền và chức năng cũ được giữ lại.
+
+Quay MYTHIC: 100.000 xu/lượt; 35% MYTHIC, 65% còn lại chia đều cho THƯỜNG, HIẾM, EPIC, LEGENDS (16,25% mỗi cấp).
